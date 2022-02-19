@@ -1,0 +1,49 @@
+
+
+header{
+color: #D9D4D2;
+font-size: 3rem;
+margin-top: 7%;
+}
+
+form{
+margin-top: 5%;
+}
+
+body{
+    background-color: #BF3F5780;
+    font-family: 'Short Stack', cursive;
+    text-align: center;
+}
+
+button{
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #5185A690;
+    color: #D9D4D2;
+    font-family: 'Short Stack', cursive;
+}
+button:hover{
+    opacity: 0.8;
+    color: #BF3F57;
+}
+
+button:active{
+    opacity: 0.6;
+    color:#BF3F57 ;
+}
+
+input{
+    padding: 10px;
+    font-family: 'Short Stack', cursive;
+}
+
+div{
+    width:fit-content;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+.vowel{
+    color: #ed1d7a;
+}
